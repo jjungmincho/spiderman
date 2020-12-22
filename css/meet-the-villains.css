@@ -1,0 +1,60 @@
+/* Page 1 */
+.meet-the-villains-container {
+    background-image: url('../images/meet-the-villains-bg.jpg');
+}
+
+.meet-the-villains-text {
+    text-align: center;
+}
+
+.meet-the-villains-text h3 {
+    text-align: center;
+    position: relative;
+    width: 90%;
+    max-width: 763px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.meet-the-villains-image {
+    width: 90%;
+    max-width: 1291px;
+    height: 792px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1% 0 1% 0;
+}
+
+.meet-the-villains-wrapper {
+    text-align: center;
+}
+
+button {
+    background-color: var(--color-red);
+    border: none;
+    padding: 15px 40px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    text-transform: uppercase;
+    }
+
+    .text {
+    text-decoration: none;
+    }
+
+    .button-wrapper {
+    text-align: center;
+}
+
+@media screen and (min-width: 1400px) {
+    .button-wrapper {
+        display: none;
+    }
+
+    .meet-the-villains-container:hover {
+        background-image: url('../images/villains-hover-bg.jpg');
+    }
+}

@@ -1,0 +1,30 @@
+footer {
+    text-align: center;
+    width: 100%;
+    background: linear-gradient(#56ABE5,#2B73C7);
+    padding: 10px 0 30px 0;
+    margin-top: 10px;
+}
+
+.footer-logo {
+    width: 80%;
+    max-width: 91.25px;
+    height: auto;
+    padding: 10px 0px 0px 0px;
+}
+
+hr {
+    display: block;
+    position: relative;
+    padding: 0;
+    margin: 5px auto;
+    height: 0;
+    width: 100%;
+    max-height: 0;
+    font-size: 1px;
+    line-height: 0;
+    clear: both;
+    border: none;
+    border-top: 1px solid var(--color-white);
+    border-bottom: 1px solid var(--color-white);
+}

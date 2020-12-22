@@ -15,19 +15,19 @@
     }
 }
 
-@media screen and (min-width: 768px) {
+@media screen and (min-width: 769px) {
     h1, nav ul li a {
         font-size: 2.5rem;
         font-family: 'Permanent Marker', cursive;
     }
 
     h3, .text {
-        font-size: 1.875rem;
+        font-size: 2rem;
         font-family: 'Walter Turncoat', cursive;
     }
 
     p {
-        font-size: 1rem;
+        font-size: 1.2rem;
         font-family: 'Walter Turncoat', cursive;
     }
 }

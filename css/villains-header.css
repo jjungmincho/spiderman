@@ -1,0 +1,30 @@
+/* Page 2 */
+.page2-villains-container {
+    width: 100%;
+    height: 600px;
+    background-image: url('../images/page2-villains-intro-bg.jpg');
+    background-position: center;
+}
+
+.page2-villains-container {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.page2-intro-text {
+    text-align: center;
+    width: 100%;
+    max-width: 800px;
+    margin: auto;
+}
+
+.arrow-wrapper {
+    width: 100%;
+    max-width: 33px;
+    height: auto;
+    Position: absolute;
+    Bottom: 20px;
+    text-align: center;
+}

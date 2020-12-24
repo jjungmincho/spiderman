@@ -44,6 +44,8 @@ None. This project is fully responsive to mobile(max: 768px), tablet (min: 768px
 ## Highlighted Features 
 
 ### Navigation
+![screenshot-navigation](https://user-images.githubusercontent.com/40417828/103062169-46b04200-4562-11eb-95e4-6768ba19db2f.png)
+
 Since this project has two pages only, I created a simple navigation with a call-to-action using Flexbox. 
 ```html
  <div class="nav-wrapper">
@@ -74,6 +76,8 @@ The first time when I created this website back in 2018, I only learned HTML and
 Updates in 2020, the categories are now hidden on mobile screen. *However, it still needs to developed for a hamburger menu with JavaScript.*
 
 ### Cartoon 
+![screenshot-intro](https://user-images.githubusercontent.com/40417828/103062220-6c3d4b80-4562-11eb-987b-241753aed75a.png)
+
 In this section, I placed elements using Flexbox and position properties. 
 ```html
 <section class="cartoon-cell-block">
@@ -134,6 +138,9 @@ Then, each sections are named as `cells` including `cell images` and `text bubbl
 ```
 
 ### Villains 
+![screenshot-viilains1](https://user-images.githubusercontent.com/40417828/103062247-870fc000-4562-11eb-891d-b94a8745ec44.png) 
+![screenshot-villains2](https://user-images.githubusercontent.com/40417828/103062279-942caf00-4562-11eb-8cb3-0c23c3ec73f1.png)
+
 To display image elements on hover, I used a simple JavaScript script at the very bottom of the index html file. 
 ```html
 <section class="meet-the-villains-container">
@@ -162,6 +169,8 @@ To display image elements on hover, I used a simple JavaScript script at the ver
 
 ### DLC (Downloadable Content)
 > DLC means an additional content created for an already released video game
+
+![screenshot-dlc](https://user-images.githubusercontent.com/40417828/103062314-a73f7f00-4562-11eb-8a5d-7ee6266c603d.png)
 
 For this section, I used Flexbox to layout three columns on desktop screen. The layout is changed to vertically on mobile screen.
 ```html

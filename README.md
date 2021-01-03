@@ -7,7 +7,7 @@ As a big fan of the Marvel's Spider-man Game, I re-designed and developed the or
 - [Motivation](https://github.com/jjessicacho/spiderman#motivation)
 - [Technologies](https://github.com/jjessicacho/spiderman#technologies)
 - [Setup](https://github.com/jjessicacho/spiderman#setup)
-- [Highlighted_Features](https://github.com/jjessicacho/spiderman#highlighted_feature)
+- [Highlighted-features](https://github.com/jjessicacho/spiderman#highlighted-feature)
 - [Sources](https://github.com/jjessicacho/spiderman#soruces)
 
 ------------

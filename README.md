@@ -7,7 +7,7 @@ As a big fan of the Marvel's Spider-man Game, I re-designed and developed the or
 - [Motivation](https://github.com/jjessicacho/spiderman#motivation)
 - [Technologies](https://github.com/jjessicacho/spiderman#technologies)
 - [Setup](https://github.com/jjessicacho/spiderman#setup)
-- [Highlighted-features](https://github.com/jjessicacho/spiderman#highlighted-feature)
+- [Highlighted-features](https://github.com/jjessicacho/spiderman#highlighted-features)
 - [Sources](https://github.com/jjessicacho/spiderman#soruces)
 
 ------------
@@ -41,7 +41,7 @@ None. This project is fully responsive to mobile(max: 768px), tablet (min: 768px
 
 ------------
 
-## Highlighted Features 
+## Highlighted-features 
 
 ### Navigation
 ![screenshot-navigation](https://user-images.githubusercontent.com/40417828/103062169-46b04200-4562-11eb-95e4-6768ba19db2f.png)
